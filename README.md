@@ -1,4 +1,4 @@
-# Coffe Shop Dashboard-Analysis
+# Coffe Shop Dashboard Analysis
 ☕ Coffee Shop Sales Dashboard - Excel Project
 
 I recently created a Coffee Shop Sales Dashboard in Excel to analyze sales performance and customer transactions.
